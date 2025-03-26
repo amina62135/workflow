@@ -13,7 +13,10 @@
     "semi": ["error", "always"],
     "quotes": ["error", "single"]
  "scripts": {
+  "lint": "eslint .""scripts": {
   "lint": "eslint ."
+}
+
 }
  }
 }
