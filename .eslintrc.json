@@ -12,5 +12,8 @@
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "single"]
-  }
+ "scripts": {
+  "lint": "eslint ."
+}
+ }
 }
